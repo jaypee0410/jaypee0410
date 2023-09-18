@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @jaypee0410
+- <h1 align="center">Hi 👋, I'm John Philip</h1>
+<h3 align="center">
+- 👋 I’m @jaypee0410
 - 👀 I’m interested in video games, IT stuffs, eating, cars, and etc.
 - 🌱 I’m currently learning programming.
-- 📫 How to reach me: you can email me at: jpcabalitan24@gmail.com
-
-- <h1 align="center">Hi 👋, I'm John Philip</h1>
-<h3 align="center">A career shifter to IT from Philippines</h3>
+- 📫 How to reach me: you can email me at: jpcabalitan24@gmail.com</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

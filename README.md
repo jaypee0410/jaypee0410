@@ -1,6 +1,5 @@
-- <h1 align="center">Hi 👋, I'm John Philip</h1>
+<h1 align="center">Hi 👋, I'm John Philip</h1>
 <h3>
-- 👋 I’m @jaypee0410 <br>
 - 👀 I’m interested in video games, IT stuffs, eating, cars, and etc. <br>
 - 🌱 I’m currently learning programming. <br>
 - 📫 How to reach me: you can email me at: jpcabalitan24@gmail.com</h3> <br>

@@ -27,16 +27,14 @@
 ---
 
 ### 🛠️ Tools & Technologies
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-teams.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-exchange.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-sharepoint-2019.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/azure-1.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/power-automate.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/active-directory.png" width="40" height="40"/>
-</p>
+
+**Microsoft 365:** Exchange Online, SharePoint Online, Microsoft Teams, OneDrive  
+**Identity & Access:** Microsoft Entra ID (Azure AD), Active Directory  
+**Automation:** Power Automate (Power Platform), basic UiPath exposure  
+**Systems & Support:** Windows OS, Level 2 Technical Support, Incident Management  
+**Monitoring & Security:** Infrastructure Monitoring, Endpoint Security (Sophos)  
+**ITSM & Tools:** MotaData ServiceOps, ManageEngine OpManager  
+**Cloud:** Microsoft Azure (Fundamentals)
 
 ---
 

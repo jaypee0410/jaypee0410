@@ -1,24 +1,59 @@
 <h1 align="center">Hi 👋, I'm John Philip</h1>
-<h3>
-- 👀 I’m interested in video games, IT stuffs, eating, cars, and etc. <br>
-- 🌱 I’m currently learning programming. <br>
-- 📫 How to reach me: you can email me at: jpcabalitan24@gmail.com</h3>
+<h3 align="center">IT Technical Specialist | Microsoft 365 Administrator | Power Automate | Cloud & IT Operations</h3>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 👨‍💻 About Me
+- 💼 IT Technical Specialist with experience in **Microsoft 365, IT Support, and Automation**
+- 🔧 Skilled in **Exchange Online, SharePoint, Microsoft Teams, and Entra ID**
+- ⚙️ Building automation solutions using **Power Automate**
+- 🖥️ Experienced in **Level 2 Technical Support, Incident Management, and Infrastructure Monitoring**
+- 📈 Currently focusing on **Microsoft 365 Administration and Cloud Technologies (Azure)**
+
+---
+
+### 🚀 Current Focus
+- Microsoft 365 Administration (Exchange, Teams, SharePoint)
+- Power Platform (Power Automate)
+- Cloud Fundamentals (Microsoft Azure)
+- IT Service Management (ITIL)
+
+---
+
+### 📫 Contact Me
+- 📧 Email: jpcabalitan24@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/jpcabalitan  
+
+---
+
+### 🛠️ Tools & Technologies
 <p align="left">
-<a href="https://linkedin.com/in/jpcabalitan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpcabalitan" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-teams.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-exchange.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-sharepoint-2019.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/azure-1.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-automate.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/active-directory.png" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<!---
-<h3 align="left">Support:</h3>
-<p>This area is left intentionally blank</p>
-<p><a href="https://www.buymeacoffee.com/jpcabalitan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jpcabalitan" /></a></p><br><br>
---->
+### 📌 Key Skills
+- Microsoft 365 Administration  
+- Entra ID (User & Role Management)  
+- Exchange Online / SharePoint / Teams  
+- Power Automate (Workflow Automation)  
+- IT Service Management (ITIL)  
+- Technical Support (L2 / Enterprise Environment)  
+- Infrastructure & System Monitoring  
 
-<!---
-jaypee0410/jaypee0410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📊 Goals
+- Transition into **Microsoft 365 / Cloud Engineer role**
+- Strengthen skills in **Azure and Identity Management**
+- Build automation-driven IT solutions
+
+---
